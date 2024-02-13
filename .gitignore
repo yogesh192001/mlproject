@@ -122,10 +122,8 @@ celerybeat.pid
 # Environments
 .env
 .venv
-.yogesh
 env/
 venv/
-yogesh/
 ENV/
 env.bak/
 venv.bak/
